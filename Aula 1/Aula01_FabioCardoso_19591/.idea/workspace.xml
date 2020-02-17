@@ -39,18 +39,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581950264337</updated>
-      <workItem from="1581950268149" duration="316000" />
+      <workItem from="1581950268149" duration="569000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581950491269">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581950779440">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1581950491269" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1581950779440" />
     <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1581950269044">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
