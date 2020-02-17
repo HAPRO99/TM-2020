@@ -1,2 +1,2 @@
 let test = "Hello Word!!";
-console.log(test);
+alert(test);

@@ -39,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581950264337</updated>
-      <workItem from="1581950268149" duration="150000" />
+      <workItem from="1581950268149" duration="316000" />
     </task>
     <servers />
   </component>
@@ -55,6 +55,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1581950269044" />
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581950631676">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1581950631676" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1581950361127">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
